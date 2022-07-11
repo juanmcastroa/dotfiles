@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juan.manuel.castro.arias@gmail.com
+	name = Juan Castro
